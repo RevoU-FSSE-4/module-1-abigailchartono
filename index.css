@@ -141,6 +141,7 @@ section{
     padding-right: 5%;
 }
 
+
 .formfield{
     width: 20em;
     height: 3em;
@@ -150,6 +151,9 @@ section{
     color: #5546CB;
     border: 0.5px solid #5546CB;
     padding-left: 1em;
+}
+
+.container-checkbox{
 }
 
 .button{
