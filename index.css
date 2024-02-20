@@ -154,6 +154,12 @@ section{
 }
 
 .container-checkbox{
+    display: flex;
+    align-items: center;
+}
+
+.container-checkbox input[type="checkbox"] {
+    margin-right: 0.5em;
 }
 
 .button{
